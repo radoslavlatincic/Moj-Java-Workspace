@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Radoslav04&apos; to &apos;Radoslav04-WHILE&apos;" description="Rename resource &apos;Radoslav04&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Radoslav04" name="Radoslav04-WHILE" stamp="1481621716724" updateReferences="true"/>
+</session>

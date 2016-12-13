@@ -1,0 +1,28 @@
+
+public class App {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int myNumber=99;
+		short myShort=987;
+		char myChar='r';
+		boolean myTrue=true;
+		byte myByte=127;
+		String[] words=new String[3];
+		
+		//Upisi vrijednosti u za string
+		
+		words[0]="Pozdrav,  ";
+		words[1]="Kako si ";
+		words[2]="ti  ?";
+		
+		String[] fruits={"jabuka","banana","jagoda","kivi","nesto"};
+		
+		System.out.println(myNumber);
+		System.out.println(myShort);
+		System.out.println(myChar);
+		System.out.println(myTrue);
+		System.out.println(myByte);
+	}
+
+}
